@@ -77,5 +77,9 @@ export const Toast = styled.div<ToastProps>`
       svg {
         margin-top: 0;
       }
+
+      button {
+        top: 16px;
+      }
     `}
 `;
